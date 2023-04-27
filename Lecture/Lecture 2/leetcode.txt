@@ -1,0 +1,7 @@
+Arrays: 
+leetcode 217 Contains Duplicate Easy
+leetcode 88 Merge Sorted Array Easy
+
+HashMap:
+leetcode 268 Missing Number Easy
+leetcode 1 Two Sum Easy
